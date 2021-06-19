@@ -1,0 +1,13 @@
+How To Kill Server Using THe CMD: 
+1) Run The CMD As An Adminstrator.
+2) netstat -ano | findstr 8080
+3) >taskkill /PID رقم الي بطلع من الي قبل /F
+............................................................
+How To Create a New SpringBoot Project:
+1) Name: Your Project Name in Small Letter.
+2) Group Feild: .Your Project Name
+3) Artifact Field:Your Project Name
+4)Package Field: Same as the group field.
+Press Next.....
+Write Web and select Spring Web.
+

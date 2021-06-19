@@ -1,0 +1,115 @@
+2021-06-19 23:37:58,019 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-06-19 23:43:01,502 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.displaydate:displaydate:0.0.1-SNAPSHOT @ D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\pom.xml.
+2021-06-19 23:43:13,651 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /displaydate/src/main/java
+2021-06-19 23:43:13,652 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /displaydate/src/main/resources
+2021-06-19 23:43:13,661 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /displaydate/src/main/resources
+2021-06-19 23:43:13,675 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /displaydate/src/test/java
+2021-06-19 23:43:23,887 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 39 sec
+2021-06-19 23:43:23,893 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-19 23:43:24,876 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.displaydate:displaydate:0.0.1-SNAPSHOT @ D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\pom.xml.
+2021-06-19 23:43:26,399 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /displaydate/src/main/java
+2021-06-19 23:43:26,399 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /displaydate/src/main/resources
+2021-06-19 23:43:26,400 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /displaydate/src/main/resources
+2021-06-19 23:43:26,401 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /displaydate/src/test/java
+2021-06-19 23:43:28,469 [Worker-1: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for displaydate
+2021-06-19 23:43:28,494 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2021-06-19 23:43:31,805 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 23:43:31,805 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-19 23:43:31,812 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-19 23:43:31,854 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-19 23:43:31,857 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 23:43:31,858 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-19 23:43:31,858 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-19 23:43:31,858 [Worker-1: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of displaydate
+2021-06-19 23:43:31,860 [Worker-1: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for displaydate
+2021-06-19 23:43:31,867 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 23:43:31,868 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-19 23:45:41,257 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 23:45:41,257 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-19 23:45:41,259 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-19 23:45:41,259 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-19 23:45:41,262 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-19 23:45:41,262 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-19 23:45:41,262 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-20 00:07:08,368 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:07:08,368 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:07:08,369 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:07:08,369 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:07:08,373 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:07:08,373 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:07:08,373 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-20 00:09:16,605 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:09:16,605 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:09:16,605 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:09:16,605 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:09:16,608 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:09:16,608 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:09:16,608 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-20 00:09:18,679 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:09:18,679 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:09:18,679 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:09:18,679 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:09:18,682 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:09:18,682 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:09:18,682 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-20 00:11:38,921 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example.displaydate:displaydate:0.0.1-SNAPSHOT @ D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\pom.xml.
+2021-06-20 00:11:40,350 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:11:40,350 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:11:40,355 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-20 00:11:40,407 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:11:40,411 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:11:40,411 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:11:40,411 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-20 00:11:40,411 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of displaydate
+2021-06-20 00:11:40,411 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for displaydate
+2021-06-20 00:11:40,417 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:11:40,417 [Worker-34: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:12:16,394 [Worker-28: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:12:16,395 [Worker-28: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:12:16,396 [Worker-28: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-20 00:12:16,408 [Worker-28: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:12:16,411 [Worker-28: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:12:16,411 [Worker-28: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:12:16,411 [Worker-28: Launching displaydate - DisplaydateApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-20 00:12:38,655 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:12:38,656 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:12:38,656 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:12:38,656 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:12:38,661 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:12:38,661 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:12:38,662 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\JAVA\Java_Stack\SpringBoot\DisplayDate\displaydate\src\test\resources
+2021-06-20 00:13:50,667 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-06-20 00:13:51,446 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.codingdojo.date:Date:0.0.1-SNAPSHOT @ D:\AXSOS\javaStack-master\java spring\Date\pom.xml.
+2021-06-20 00:13:52,959 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Date/src/main/java
+2021-06-20 00:13:52,959 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Date/src/main/resources
+2021-06-20 00:13:52,979 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Date/src/main/resources
+2021-06-20 00:13:53,010 [Worker-28: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Date/src/test/java
+2021-06-20 00:13:56,513 [Worker-28: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2021-06-20 00:13:57,114 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:13:57,114 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:13:57,115 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-20 00:13:57,130 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-06-20 00:13:57,296 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:13:57,297 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:13:57,297 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\javaStack-master\java spring\Date\src\test\resources
+2021-06-20 00:34:44,003 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:34:44,004 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:34:44,005 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-20 00:34:44,045 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-06-20 00:34:44,049 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:34:44,049 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:34:44,049 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\javaStack-master\java spring\Date\src\test\resources
+2021-06-20 00:36:12,562 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:36:12,563 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:36:12,563 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:36:12,563 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-20 00:36:12,632 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:36:12,633 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:36:12,633 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\javaStack-master\java spring\Date\src\test\resources
+2021-06-20 00:36:27,239 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:36:27,239 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:36:27,239 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-06-20 00:36:27,240 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-06-20 00:36:27,244 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-06-20 00:36:27,244 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-06-20 00:36:27,244 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\AXSOS\javaStack-master\java spring\Date\src\test\resources
