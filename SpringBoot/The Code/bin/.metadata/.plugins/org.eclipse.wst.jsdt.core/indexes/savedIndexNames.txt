@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\AXSOS\javaStack-master\java spring\The Code\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2843182265.index
+2639931756.index
+3435648363.index
+2376749524.index
+941738103.index
