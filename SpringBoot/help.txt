@@ -10,4 +10,25 @@ How To Create a New SpringBoot Project:
 4)Package Field: Same as the group field.
 Press Next.....
 Write Web and select Spring Web.
+..............................................................
+Project with Models: 
+1) create a projects as a last steps.
+2) select web spring, MySQL,DEVTools, and JPA.
+3) add the dependences in POM.XML file:
+  <dependency>
+                <groupId>org.apache.tomcat.embed</groupId>
+                <artifactId>tomcat-embed-jasper</artifactId>
+        </dependency>
+        <dependency>
+                <groupId>javax.servlet</groupId>
+                <artifactId>jstl</artifactId>
+        </dependency>
+4) add the following code to this file ..> src/main/resourse ..> application.propariteis 
+spring.datasource.url=jdbc:mysql://localhost:3306/<<YOUR_SCHEMA>>
+spring.datasource.username=<<dbuser>>
+spring.datasource.password=<<dbpassword>>
+spring.datasource.driver-class-name=com.mysql.jdbc.Driver
+spring.jpa.hibernate.ddl-auto=update
+
+5) 
 
