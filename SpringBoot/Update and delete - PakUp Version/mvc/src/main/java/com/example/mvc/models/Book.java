@@ -13,9 +13,6 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 import org.springframework.format.annotation.DateTimeFormat;
-import org.springframework.stereotype.Controller;
-import org.springframework.ui.Model;
-import org.springframework.web.bind.annotation.RequestMapping;
 @Entity
 @Table(name="books")
 public class Book {
@@ -101,17 +98,5 @@ public class Book {
     }
     public void setUpdatedAt(Date updatedAt) {
         this.updatedAt = updatedAt;
-    }
-    @Controller
-    public class HomeController {
-        @RequestMapping("/books/{id}")
-        public String index() {
-            return "show.jsp";
-        }
-        @RequestMapping("/books/{id}")
-        public String index(Model model) {
-            model.addAttribute("dojoName", "Burbank");
-            return "show.jsp";
-        }
     }
 }
