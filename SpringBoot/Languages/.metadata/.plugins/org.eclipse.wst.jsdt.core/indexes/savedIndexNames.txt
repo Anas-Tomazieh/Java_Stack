@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\itech\Desktop\java-stack-masterwaa\Spring Fundamentals\Languages\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3998418004.index
+2094637021.index
+3435648363.index
+1134990121.index
+3581163120.index
+1837591211.index
+3581145089.index
