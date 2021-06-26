@@ -1,5 +1,5 @@
 Tips for Spring Boot
-
+Web Spring,MySQL, DevTools, JPA
 1. create the prject, then create the needed packages: 
 models
 repositories
@@ -50,3 +50,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 5. inside the JSP, make sure to have the following to use c:out
 <%@ taglib prefix = "c" uri = "http://java.sun.com/jsp/jstl/core" %>
+............................
+model model ...من الداتا بيس للفرونت اند
+modelAttribute....من الفرونت اند للداتا بيس
+@request param.....لما يكون في سيرتش بارت
